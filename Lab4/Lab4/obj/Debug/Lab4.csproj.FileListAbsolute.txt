@@ -1,0 +1,20 @@
+C:\Users\wowdi\source\repos\Lab4\Lab4\bin\Debug\Lab4.exe.config
+C:\Users\wowdi\source\repos\Lab4\Lab4\bin\Debug\Lab4.exe
+C:\Users\wowdi\source\repos\Lab4\Lab4\bin\Debug\Lab4.pdb
+C:\Users\wowdi\source\repos\Lab4\Lab4\obj\Debug\Lab4.csprojAssemblyReference.cache
+C:\Users\wowdi\source\repos\Lab4\Lab4\obj\Debug\Lab4.Properties.Resources.resources
+C:\Users\wowdi\source\repos\Lab4\Lab4\obj\Debug\Lab4.csproj.GenerateResource.cache
+C:\Users\wowdi\source\repos\Lab4\Lab4\obj\Debug\Lab4.csproj.CoreCompileInputs.cache
+C:\Users\wowdi\source\repos\Lab4\Lab4\obj\Debug\Lab4.exe
+C:\Users\wowdi\source\repos\Lab4\Lab4\obj\Debug\Lab4.pdb
+C:\Users\wowdi\source\repos\Lab4\Lab4\obj\Debug\Lab4.Form1.resources
+C:\Users\wowdi\OneDrive\Рабочий стол\Станкин\СЦОИ\4\Lab4\Lab4\bin\Debug\Lab4.exe.config
+C:\Users\wowdi\OneDrive\Рабочий стол\Станкин\СЦОИ\4\Lab4\Lab4\bin\Debug\Lab4.exe
+C:\Users\wowdi\OneDrive\Рабочий стол\Станкин\СЦОИ\4\Lab4\Lab4\bin\Debug\Lab4.pdb
+C:\Users\wowdi\OneDrive\Рабочий стол\Станкин\СЦОИ\4\Lab4\Lab4\obj\Debug\Lab4.csprojAssemblyReference.cache
+C:\Users\wowdi\OneDrive\Рабочий стол\Станкин\СЦОИ\4\Lab4\Lab4\obj\Debug\Lab4.Form1.resources
+C:\Users\wowdi\OneDrive\Рабочий стол\Станкин\СЦОИ\4\Lab4\Lab4\obj\Debug\Lab4.Properties.Resources.resources
+C:\Users\wowdi\OneDrive\Рабочий стол\Станкин\СЦОИ\4\Lab4\Lab4\obj\Debug\Lab4.csproj.GenerateResource.cache
+C:\Users\wowdi\OneDrive\Рабочий стол\Станкин\СЦОИ\4\Lab4\Lab4\obj\Debug\Lab4.csproj.CoreCompileInputs.cache
+C:\Users\wowdi\OneDrive\Рабочий стол\Станкин\СЦОИ\4\Lab4\Lab4\obj\Debug\Lab4.exe
+C:\Users\wowdi\OneDrive\Рабочий стол\Станкин\СЦОИ\4\Lab4\Lab4\obj\Debug\Lab4.pdb
